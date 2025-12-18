@@ -9,6 +9,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://johnstonliu.github.io',
-  base: '/mycelium',
+  site: 'https://mycelium.build',
 });
